@@ -1,13 +1,5 @@
 <?php
-/**
- * EasyPayWay - Online Payment Gateway For Bangladesh | Support Local & International Visa Master American Express Nexus Q-Cash
- * PHP4 und PHP5
- *
- * @version 1.1
- * @author Jm Redwan <redwan@thecodero.com>
- * @copyright 2012 easypayway.com
- * Free Payment Module for OpenCart.com
- */
+
 $_['heading_title']     = 'Thank you for shopping with %s .... ';
 
 // Text
